@@ -22,14 +22,14 @@
 			"name": "endpoint",
 			"display_name": "AWS IoT Endpoint",
 			"type": "text",
-			"default_value": "a337ix15phd3li.iot.ap-southeast-1.amazonaws.com",
+			"default_value": "",
 			"description": "Your AWS account-specific AWS IoT endpoint. You can use the AWS IoT CLI describe-endpoint command to find this endpoint",
 			"required": true
 		}, {
 			"name": "region",
 			"display_name": "Region",
 			"type": "text",
-			"default_value": "ap-southeast-1",
+			"default_value": "",
 			"description": "The AWS region of your AWS account",
 			"required": true
 		}, {
@@ -43,14 +43,14 @@
 			"name": "accessKey",
 			"display_name": "Access Key",
 			"type": "text",
-			"default_value": "AKIAJ7SOVP3U6BH4UF2Q",
+			"default_value": "",
 			"description": "Access Key of AWS IAM",
 			"required": true
 		}, {
 			"name": "secretKey",
 			"display_name": "Secret Key",
 			"type": "text",
-			"default_value": "qAlti+a1VCNJV5fl0dXgIhDoO8g/+05ySN4Px+C/",
+			"default_value": "",
 			"description": "Secret Key of AWS IAM",
 			"required": true
 		}, {
