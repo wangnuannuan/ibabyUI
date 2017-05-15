@@ -63,8 +63,8 @@ var WANConfig = {
 				"endpoint": "a337ix15phd3li.iot.ap-southeast-1.amazonaws.com",
 				"region": "ap-southeast-1",
 				"clientId": "",
-				"accessKey": "AKIAJ7SOVP3U6BH4UF2Q",
-				"secretKey": "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",
+				"accessKey": "",
+				"secretKey": "",
 				"things": [
 					{
 						"thing": "iBaby"
